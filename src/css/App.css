@@ -12,33 +12,43 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
-  border-radius: 10%;
+  width: 20rem;
+  height: 30rem;
   background-color: white;
-  width: 32vw;
-  height: 32vw;
   background: rgba(255, 255, 255, 0.6);
   box-shadow: 0 0.5rem 2rem 0 rgba(132, 144, 255, 0.4);
   backdrop-filter: blur(0.3rem);
   -webkit-backdrop-filter: blur(0.3rem);
-  border-radius: 5%;
+  border-radius: 2rem;
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 
 .app_container_img{
-  width: 15rem;
-  height: 15rem;
+  width: 13rem;
+  height: 13rem;
   background: linear-gradient(#fff, #fff) padding-box,
-  linear-gradient(to right, #63bcfc, #8490ff) border-box;
+  linear-gradient(to right, #63bcfc, #a584ff) border-box;
   border: 0.3rem solid transparent;
   border-radius: 50%;
 }
 
+.app_container_text_box{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.app_container_name{
+  font-weight: bolder;
+  font-size: 1.5rem;
+  text-align: left;
+}
+
 
 .app_container_text{
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: bold;
-  text-align: center;
+  word-break: break;
 }
 
 .app_container_social{
@@ -51,8 +61,9 @@
 }
 
 .app_container_social_icon{
-  width: 3rem;
-  height: 3rem;
+  margin-top: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
   opacity: 0.8;
   transform: delay(100ms);
   transition: all 500ms ease-in-out;
@@ -60,4 +71,65 @@
 
 .app_container_social_icon:hover{
   transform: translateY(-0.75rem);
+}
+
+
+@media screen and (min-width: 576px) {
+  .app_container{
+    width: 35rem;
+    height: 40rem;
+  }
+
+  .app_container_img{
+    width: 15rem;
+    height: 15rem;
+  }
+
+  .app_container_name{
+    font-size: 2rem;
+  }
+
+  .app_container_text{
+    font-size: 1rem;
+  }
+
+  .app_container_social_icon{
+    width: 3rem;
+    height: 3rem;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .app_container_name{
+    font-size: 2rem;
+  }
+
+  .app_container_text{
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 2000px){
+  .app_container{
+    width: 60rem;
+    height: 60rem;
+  }
+
+  .app_container_img{
+    width: 25rem;
+    height: 25rem;
+  }
+
+  .app_container_name{
+    font-size: 3rem;
+  }
+
+  .app_container_text{
+    font-size: 1.5rem;
+  }
+
+  .app_container_social_icon{
+    width: 5rem;
+    height: 5rem;
+  }
 }

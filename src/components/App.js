@@ -10,12 +10,13 @@ function App() {
     <div className="app">
       <div className="app_container">
         <img className="app_container_img" src={portrait} alt="Portrait" />
-        <h1 className="app_container_name">John Truninger</h1>
-        <h3 className="app_container_text">
-          Working Student <br />
-          Data Management and Process Automation <br />
-          at Siemens SI
-        </h3>
+        <div className="app_container_text_box">
+          <h1 className="app_container_name">Hi, I'm John Truninger</h1>
+          <div className="app_container_text">
+            Working Student at Siemens SI <br />
+            Data Management and Process Automation
+          </div>
+        </div>
         <div className="app_container_social">
           <a
             className="app_container_social_icon"
