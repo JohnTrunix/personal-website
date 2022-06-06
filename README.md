@@ -1,16 +1,16 @@
 # :rocket: Personal Website
+![](https://img.shields.io/github/languages/count/JohnTrunix/personal-website?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
->**My socials:**
->- [Webpage](https://www.john-trunix.ch)
->- [Linkedin](https://www.linkedin.com/in/john-truninger/)
->- [Github](https://github.com/JohnTrunix)
->- [Kaggle](https://www.kaggle.com/johntrunix)
-
-<br/>
+>## My socials:
+>[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.john-trunix.ch)
+>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-truninger/)
+>[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnTrunix)
+>[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/johntrunix)
 
 ---
-
 <br/>
 
 ## Getting Started with Create React App
