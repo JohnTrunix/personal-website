@@ -1,6 +1,6 @@
 import "../css/App.css";
 
-import portrait from "../img/portrait.png";
+import portrait from "../img/portrait.webp";
 import linkedinsvg from "../svg/linkedin.svg";
 import githubsvg from "../svg/github.svg";
 import kagglesvg from "../svg/kaggle.svg";
