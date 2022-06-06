@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.3c89143e.css",
-    "main.js": "/personal-website/static/js/main.71e2a7fb.js",
-    "static/media/portrait.png": "/personal-website/static/media/portrait.2ecbb8a43685bdb53014.png",
-    "static/media/linkedin.svg": "/personal-website/static/media/linkedin.b15f6b073a247c777b971d6abe697d06.svg",
-    "index.html": "/personal-website/index.html",
-    "static/media/kaggle.svg": "/personal-website/static/media/kaggle.3244e1ea95d82b20b6cdc64d03a55f07.svg",
-    "static/media/github.svg": "/personal-website/static/media/github.1c1541536e545f538eb15d51fabb0b84.svg",
-    "main.3c89143e.css.map": "/personal-website/static/css/main.3c89143e.css.map",
-    "main.71e2a7fb.js.map": "/personal-website/static/js/main.71e2a7fb.js.map"
+    "main.css": "/static/css/main.3c89143e.css",
+    "main.js": "/static/js/main.870b738a.js",
+    "static/media/portrait.png": "/static/media/portrait.2ecbb8a43685bdb53014.png",
+    "static/media/linkedin.svg": "/static/media/linkedin.b15f6b073a247c777b971d6abe697d06.svg",
+    "index.html": "/index.html",
+    "static/media/kaggle.svg": "/static/media/kaggle.3244e1ea95d82b20b6cdc64d03a55f07.svg",
+    "static/media/github.svg": "/static/media/github.1c1541536e545f538eb15d51fabb0b84.svg",
+    "main.3c89143e.css.map": "/static/css/main.3c89143e.css.map",
+    "main.870b738a.js.map": "/static/js/main.870b738a.js.map"
   },
   "entrypoints": [
     "static/css/main.3c89143e.css",
-    "static/js/main.71e2a7fb.js"
+    "static/js/main.870b738a.js"
   ]
 }
